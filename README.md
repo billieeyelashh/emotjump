@@ -6,6 +6,9 @@ Simple Game inspired by the google 404 Dinsosaur game controlled by your face an
 - Build with a webserver on Ubuntu 20.04 LTS
 
     sudo apt install apache2
+   
     cd /var/www/html
+     
     git clone https://github.com/AdrianBeckDev/EmotJump.git
+    
     service apache2 restart 
