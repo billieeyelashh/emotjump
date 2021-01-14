@@ -3,7 +3,7 @@ Simple Game inspired by the google 404 Dinsosaur game controlled by your face an
 
 
 # How to build 
-- Build with a webserver on Ubuntu 20.04 LTS
+Build with a webserver on Ubuntu 20.04 LTS
 
     sudo apt install apache2
    
