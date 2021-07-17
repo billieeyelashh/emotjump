@@ -9,6 +9,6 @@ Build with a webserver on Ubuntu 20.04 LTS
    
     cd /var/www/html
      
-    git clone https://github.com/AdrianBeckDev/EmotJump.git
+    git clone https://github.com/lona9a/EmotJump.git
     
     service apache2 restart 
