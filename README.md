@@ -12,3 +12,6 @@ Build with a webserver on Ubuntu 20.04 LTS
     git clone https://github.com/lona9a/EmotJump.git
     
     service apache2 restart 
+
+# Credits
+Inspired by Peter Schiffman
